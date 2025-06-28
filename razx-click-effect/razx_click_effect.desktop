@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=RazX Click Effects
+Comment=Cursor click effects
+Exec=python3 main.py
+Icon=input-mouse
+Categories=Settings;
+Terminal=false
+StartupNotify=true
+Path=/bin/razx
