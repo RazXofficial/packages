@@ -18,13 +18,52 @@
 
  ### requirements
 
-you want to install ``gcc``, ``libX11-devel``, ``libXrender-devel``, ``libXext-devel``, ``libcairo`` To Run RazX Click Effect On Your Desktop.
+you want to install ``gcc``, ``wget``, ``unzip``, ``libX11-devel``, ``libXrender-devel``, ``libXext-devel``, ``libcairo`` To Run RazX Click Effect On Your Desktop.
 
 **How To Install Requirements Packages:**
 ```
-sudo apt install gcc libX11-devel libXrender-devel libXext-devel libcairo
+sudo apt install gcc wget unzip libX11-devel libXrender-devel libXext-devel libcairo
 ```
 
-When You successfully Installed Requirements, Then Install RazX-clickEffect From Github.
+When You successfully Installed Requirements, Then Install ``RazX-clickEffect.zip`` From Github.
 
 **How To Install RazX-ClickEffect.zip:**
+```
+wget https://github.com/RazXofficial/packages/raw/refs/heads/main/packages/RazX-ClickEffect.zip
+```
+
+When You Successfully Installed ``RazX-clickEffect.zip`` File Then Unzip That File
+
+**How To Unzip:**
+```
+unzip RazX-ClickEffect.zip
+```
+
+When You Successfully Unzip That File Then Open ``razx-click-effect`` Folder
+
+**How To Open:**
+```
+cd razx-click-effect:
+```
+
+When You Successfully Opend ``razx-click-effect`` Folder Then ``chmod`` All Files
+
+**How To Chmod Files:**
+```
+chmod +x *
+```
+
+When You Successfully ``Chmod`` all Files Then Run ``setup.sh`` File
+
+**How To Run:**
+```
+bash setup.sh
+```
+When You Successfuly Runed ``setup.sh`` file
+
+## Congratulations You Successfully Installed RazX Click Effect.
+
+**How To Run RazX Click Effect**
+```
+razxeffect
+```
