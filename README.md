@@ -7,6 +7,7 @@ We also proudly present **RazX OS**, a Linux distribution crafted to give you sp
 ### Welcome to the future of Linux – built by a user, for the users.
 ### ---------------------------------------------------------------
 
+<img src=".github/images/logo.jpg" alt="RazX Logo" width="200" height="220"/>,
 # RazX OS – Coming Soon
 ## Developed by Akash Chaudhary
 **RazX OS** is an upcoming **lightweight, fast, and beautifully designed Linux operating system**, built to give you a seamless and powerful computing experience.
@@ -24,10 +25,12 @@ Whether you're a developer, a student, or a power user, **RazX OS** is crafted t
 **Stay tuned. RazX OS is coming.**
 ### ---------------------------------------------------------------
 
-# Contect
-### Have questions, suggestions, or want to collaborate? Feel free to reach out!
+#  Social Media
+## Stay connected and follow my work on social platforms:
+ **YouTube:** https://www.youtube.com/channel/UCacjbp5k9W5WovZJ_oFw9sA
+ 
+Subscribe for updates, tutorials, and RazX OS development insights!
 
-**Email:** akashgamingboy2@gmail.com
-
-**Instagram:** [@akashh.008](https://www.instagram.com/akashh.008)
-### ---------------------------------------------------------------
+**Instagram:** https://www.instagram.com/akashh.008
+ 
+Follow for behind-the-scenes, project sneak peeks, and Linux content!
