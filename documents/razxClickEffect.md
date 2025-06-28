@@ -43,7 +43,7 @@ When You Successfully Unzip That File Then Open ``razx-click-effect`` Folder
 
 **How To Open:**
 ```
-cd razx-click-effect:
+cd razx-click-effect
 ```
 
 When You Successfully Opend ``razx-click-effect`` Folder Then ``chmod`` All Files
@@ -67,3 +67,4 @@ When You Successfuly Runed ``setup.sh`` file
 ```
 razxeffect
 ```
+### Contect If You Setting Any Error !
